@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @bingyun
-- 👀 I’m interested in Deep learn
-- 🌱 I’m currently learning Deep learn
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<h1 align="center">Hi 👋, I'm Bingyun</h1>
+<h3 align="center">Full-stack dev technologist</h3>
 
-<!---
-bingyun123/bingyun123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bingyun123&theme=algolia" alt="bingyun123" /></a> </p>
+ 
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bingyun123&show_icons=true&locale=en&layout=compact&theme=algolia" alt="bingyun123" />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=bingyun123&show_icons=true&locale=en&theme=algolia" alt="bingyun123" />
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bingyun123&theme=algolia" alt="bingyun123" />
+</p>
