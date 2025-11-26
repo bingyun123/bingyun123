@@ -2,8 +2,8 @@
 <h3 align="center">Full-stack dev technologist</h3>
 
 <p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=bingyun123&theme=algolia" alt="bingyun123" />
+  <a href="https://github.com/bingyun123">
+      <img src="https://github-profile-trophy.vercel.app/?username=bingyun123&theme=algolia&row=1" alt="bingyun123" />
   </a>
 </p>
 <p align="center">
